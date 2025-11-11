@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Keberadaan Pensyarah",
+  "description": "A dashboard to track and manage lecturer attendance and status within the Institut Aminuddin Baki. Features include adding new records, filtering by date and department, data visualization, and exporting reports.",
+  "requestFramePermissions": []
+}
